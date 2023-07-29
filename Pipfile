@@ -10,6 +10,7 @@ pandas = "*"
 matplotlib = "*"
 pandasql = "*"
 duckdb = "*"
+notebook = "*"
 
 [dev-packages]
 
